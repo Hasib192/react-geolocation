@@ -5,6 +5,7 @@ Simple React project to practice custom hook.
 The useGeolocation custom React hook provides an easy way to integrate geolocation functionality into your React applications. With this hook, you can effortlessly retrieve the user's current location coordinates and fetch weather data for that location.
 
 ## Screenshots
+![Screenshot_2](https://github.com/Hasib192/react-geolocation/assets/27824128/f5bfd723-c2ba-4c66-a8ef-be7abd51638a)
 
 ## Installation
 
